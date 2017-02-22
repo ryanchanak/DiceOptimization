@@ -1,0 +1,2 @@
+# DiceOptimization
+Quick Python demo.
